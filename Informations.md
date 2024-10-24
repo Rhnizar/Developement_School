@@ -1,3 +1,12 @@
+### HTML is a programming language ?
+HTML (HyperText Markup Language) is not a programming language; it’s a markup language.
+Markup languages are designed to format and structure content on the web. 
+While HTML provides the essential structure and layout of a webpage (such as headings, paragraphs, links, images, and more), 
+it doesn't contain logic or control flow, which are key components of programming languages.
+
+In contrast, programming languages like JavaScript, Python, or C++ include logic, allowing you to create dynamic functionality, 
+perform calculations, and manipulate data. They enable developers to write algorithms, manage data flow, and handle user interactions, which HTML alone cannot do.
+
 
 ## The difference between "link" and "a" tags in HTML lies in their purpose and usage:
 

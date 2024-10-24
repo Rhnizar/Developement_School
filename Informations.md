@@ -1,5 +1,5 @@
 
-## The difference between "<link>" and "<a>" tags in HTML lies in their purpose and usage:
+## The difference between "link" and "a" tags in HTML lies in their purpose and usage:
 
 ### 1 link Tag:
 **. Purpose:**  The <link> tag is used to link external resources to the HTML document, such as stylesheets (CSS), icons, or other external files.
